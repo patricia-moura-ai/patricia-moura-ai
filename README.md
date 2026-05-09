@@ -106,13 +106,8 @@ With **10+ active industry certifications** spanning AWS, Databricks, AI, and Cl
 
 ## 🏗️ Featured Projects
 
-> ⚙️ *Projects being added progressively — quality over quantity.*
+> ⚙️ *Projects coming soon — currently building my portfolio.*
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔄 **AWS Data Pipeline** | End-to-end pipeline: ingestion → transformation → analytics | `Python` `AWS Glue` `S3` `Athena` |
-| 🤖 **ML Model Deployment** | Trained model exposed via API on AWS | `Python` `scikit-learn` `Lambda` `API Gateway` |
-| 📊 **Sales Dashboard** | Interactive BI dashboard with business KPIs | `Power BI` `SQL` `DAX` |
 
 ---
 
