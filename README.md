@@ -1,133 +1,166 @@
-<div align="center">
+# Patrícia Moura
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Patricia+Moura+%F0%9F%91%8B;Data+Engineer+%7C+AI+%7C+Cloud;10%2B+Industry+Certifications;Building+with+AWS+%26+Python;Turning+data+into+decisions" alt="Typing SVG" />
+🌎 &nbsp;**English** &nbsp;·&nbsp; [Português 🇧🇷](#-português)
 
-<br/>
+**Cloud Support Analyst** · São Paulo, Brazil  
+*Currently keeping AWS systems running. Studying to build the data platforms behind them.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patricia-moura-santos-b402b9239)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ptmourasantos@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patricia-moura-santos-b402b9239)
+[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ptmourasantos@gmail.com)
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **Data Engineer & Cloud Specialist** based in 🇧🇷 Brazil, focused on building scalable data solutions on **AWS** and applying **Machine Learning** to generate real business value.
-
-With **10+ active industry certifications** spanning AWS, Databricks, AI, and Cloud Economics, I bring both hands-on technical depth and a strong business mindset to every data challenge.
-
-- 🔭 Working on: **end-to-end data pipelines on AWS (S3 · Glue · Athena · Redshift)**
-- 🌱 Exploring: **MLOps pipelines · Spark optimization · Generative AI solutions**
-- 🎯 Goal: **Build data products that actually move the needle**
-- 💬 Ask me about: **Python · SQL · AWS · Machine Learning · Big Data · FinOps**
+📍 &nbsp; **Open to Junior Data Engineer opportunities** — remote or São Paulo area
 
 ---
 
-## 🏅 Certifications
+## Hello there 👋
 
-> *10 active certifications across Cloud, Data Engineering, AI & Business Agility*
+I'm a Junior Cloud Support Analyst at AIR Company, where I work with **AWS environments every day** — handling incidents, troubleshooting infrastructure, and supporting cloud operations across the companies in our group.
 
-### ☁️ AWS
-| Badge | Certification | Valid |
-|-------|--------------|-------|
-| ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Certified Solutions Architect – Associate | 2023 – 2026 |
-| ![AWS](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Certified Machine Learning Engineer – Associate | 2025 – 2028 |
-| ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Certified AI Practitioner | 2024 – 2027 |
-| ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Certified Cloud Practitioner | 2023 – 2026 |
-| ![AWS](https://img.shields.io/badge/AWS-Cloud_Economics_Essentials_Partner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Cloud Economics Essentials Partner | 2024 |
+For the past year, I've been preparing — deliberately and patiently — to transition into **Data Engineering**. That preparation looks like **10+ active certifications** across AWS, Databricks, AI, and FinOps, plus the daily reality of working inside real cloud environments. My first hands-on projects are next, and you'll see them appearing in this repo over the coming weeks.
 
-### 🔷 Data Engineering & FinOps
-| Badge | Certification | Valid |
-|-------|--------------|-------|
-| ![Databricks](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white) | Databricks Certified Data Engineer – Associate | 2026 – 2028 |
-| ![FinOps](https://img.shields.io/badge/Linux_Foundation-FinOps_Certified_Practitioner-003778?style=flat-square&logo=linux-foundation&logoColor=white) | FinOps Certified Practitioner – Linux Foundation | 2025 – 2027 |
-
-### 🤖 Generative AI & Agile
-| Badge | Certification | Valid |
-|-------|--------------|-------|
-| ![GenAI](https://img.shields.io/badge/Compass_UOL-Gen_AI_Technical_Certification-8A2BE2?style=flat-square&logo=openai&logoColor=white) | Gen AI Technical Certification – Compass UOL | 2024 |
-| ![AI-Assisted](https://img.shields.io/badge/Compass_UOL-AI--Assisted_Certified_Professional-8A2BE2?style=flat-square&logo=openai&logoColor=white) | AI-Assisted Certified Professional – Compass UOL | 2024 |
-| ![Agile](https://img.shields.io/badge/Compass_UOL-Agile_Certification-0078D4?style=flat-square&logo=azuredevops&logoColor=white) | Agile Certification – Compass UOL | 2025 – 2026 |
+Before tech, I built a career across **healthcare and education** — two decades of working closely with people, listening carefully, and explaining complex things simply. That experience shaped how I work today, and it's part of what I bring to every engineering conversation.
 
 ---
 
-## 🛠️ Tech Stack
+## How I work
 
-**Cloud & Infrastructure**
+🤝 &nbsp; **People first** — During the integration of companies in our group, I led a lot of the cross-team communication. The best architectures fail when the humans aren't aligned, and I learned that the hard way (and the rewarding way).
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+🗣️ &nbsp; **Communication as a craft** — Two decades of explaining hard things to people who weren't experts. In tech, that translates into turning ambiguous business needs into clear technical requirements — and back.
 
-**Data & AI**
+🌱 &nbsp; **Always learning** — I've reinvented my career before. I bring that same curiosity, and the same patience with myself, to every new technical challenge.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Dev & Collaboration**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+🔁 &nbsp; **Build trust, iterate openly** — In support, you learn fast that problems get solved when people feel safe to admit what they don't know. I bring that same openness to engineering work.
 
 ---
 
-## 📊 GitHub Stats
+## Stack
 
-<div align="center">
+**In production every day** &nbsp;·&nbsp; AWS (cloud operations, monitoring, troubleshooting) &nbsp;·&nbsp; incident response &nbsp;·&nbsp; cross-team coordination
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=patricia-moura-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-moura-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+**Studying & certified, building next** &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Apache Spark &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; AWS data services (S3, Glue, Athena, Redshift, Lambda) &nbsp;·&nbsp; MLOps &nbsp;·&nbsp; FinOps
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=patricia-moura-ai&theme=tokyonight&hide_border=true)
-
-</div>
+**Visualization** &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Tableau
 
 ---
 
-## 🏗️ Featured Projects
+## Certifications
 
-> ⚙️ *Projects coming soon — currently building my portfolio.*
+10 active certifications. Each one represents months of focused study — proof of commitment to this transition.
 
+| Area | Certification | Valid through |
+|------|---------------|:-------------:|
+| **AWS** | Solutions Architect – Associate | 2026 |
+| **AWS** | Machine Learning Engineer – Associate | 2028 |
+| **AWS** | AI Practitioner | 2027 |
+| **AWS** | Cloud Practitioner | 2026 |
+| **AWS** | Cloud Economics Essentials Partner | — |
+| **Data** | Databricks Data Engineer – Associate | 2028 |
+| **FinOps** | FinOps Certified Practitioner *(Linux Foundation)* | 2027 |
+| **AI** | Gen AI Technical Certification *(Compass UOL)* | — |
+| **AI** | AI-Assisted Certified Professional *(Compass UOL)* | — |
+| **Agile** | Agile Certification *(Compass UOL)* | 2026 |
 
 ---
 
-## 🌐 Currently Exploring
+## What's next
 
-```python
-patricia = {
-    "cloud":    ["AWS Data Lake design", "Cost optimization with FinOps"],
-    "data":     ["Spark at scale", "Delta Lake", "dbt"],
-    "ai":       ["MLOps pipelines", "LLM integration", "RAG systems"],
-    "mindset":  ["Build → Ship → Iterate → Improve"]
-}
-```
+🛠️ &nbsp; Building my first end-to-end data pipeline project — landing in this repo soon  
+📚 &nbsp; Deepening Spark optimization, Delta Lake, and AWS data stack hands-on  
+🤖 &nbsp; Exploring RAG systems and LLM integration patterns  
+🎯 &nbsp; Looking for the right team to start as a Junior Data Engineer
 
 ---
 
-<div align="center">
+## Let's talk
 
-*"Data is the new oil — but only if you know how to refine it."*
+If you're hiring a Junior Data Engineer — or if you just want to chat about cloud, data, or career transitions — I'd love to hear from you. I'm especially drawn to teams that value **clear communication, mentorship, and the human side of building software.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=patricia-moura-ai&color=00d4ff&style=flat-square&label=Profile+Views)
+📬 &nbsp; [**LinkedIn**](https://linkedin.com/in/patricia-moura-santos-b402b9239) &nbsp;·&nbsp; [**Email**](mailto:ptmourasantos@gmail.com)
 
-</div>
+<br>
+
+---
+
+<br>
+
+# 🇧🇷 Português
+
+[🌎 English](#patrícia-moura) &nbsp;·&nbsp; **Português**
+
+**Analista de Suporte Cloud** · São Paulo, Brasil  
+*Hoje mantenho ambientes AWS funcionando. Estudando para construir as plataformas de dados por trás deles.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patricia-moura-santos-b402b9239)
+[![Email](https://img.shields.io/badge/Email-Diga_olá-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ptmourasantos@gmail.com)
+
+📍 &nbsp; **Aberta a oportunidades como Data Engineer Júnior** — remoto ou região de São Paulo
+
+---
+
+## Olá 👋
+
+Sou Analista de Suporte Cloud Júnior na AIR Company, onde trabalho com **ambientes AWS todos os dias** — atendendo incidentes, fazendo troubleshooting de infraestrutura e dando suporte às operações cloud das empresas do nosso grupo.
+
+No último ano venho me preparando — de forma deliberada e paciente — para a transição para **Data Engineering**. Essa preparação inclui **mais de 10 certificações ativas** em AWS, Databricks, IA e FinOps, somadas ao dia a dia dentro de ambientes cloud reais. Meus primeiros projetos práticos vêm a seguir, e eles vão aparecer aqui no repositório nas próximas semanas.
+
+Antes da tecnologia, construí uma carreira em **saúde e educação** — duas décadas trabalhando lado a lado com pessoas, ouvindo com atenção e explicando coisas complexas de forma simples. Essa experiência moldou como eu trabalho hoje, e é parte do que eu trago para cada conversa de engenharia.
+
+---
+
+## Como eu trabalho
+
+🤝 &nbsp; **Pessoas primeiro** — Durante a integração das empresas do nosso grupo, liderei boa parte da comunicação entre os times. As melhores arquiteturas falham quando as pessoas não estão alinhadas, e eu aprendi isso na prática (da forma difícil e da forma boa).
+
+🗣️ &nbsp; **Comunicação como ofício** — Duas décadas explicando coisas difíceis para quem não era especialista. Em tech, isso vira a habilidade de transformar necessidades de negócio ambíguas em requisitos técnicos claros — e vice-versa.
+
+🌱 &nbsp; **Sempre aprendendo** — Já me reinventei profissionalmente antes. Trago essa mesma curiosidade, e a mesma paciência comigo mesma, para cada novo desafio técnico.
+
+🔁 &nbsp; **Construir confiança, iterar com transparência** — No suporte a gente aprende rápido que os problemas se resolvem quando as pessoas se sentem seguras para admitir o que não sabem. Trago essa mesma postura para o lado de engenharia.
+
+---
+
+## Stack
+
+**Em produção todos os dias** &nbsp;·&nbsp; AWS (operação cloud, monitoramento, troubleshooting) &nbsp;·&nbsp; resposta a incidentes &nbsp;·&nbsp; coordenação entre times
+
+**Estudando & certificada, construindo a seguir** &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Apache Spark &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; AWS data services (S3, Glue, Athena, Redshift, Lambda) &nbsp;·&nbsp; MLOps &nbsp;·&nbsp; FinOps
+
+**Visualização** &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Tableau
+
+---
+
+## Certificações
+
+10 certificações ativas. Cada uma representa meses de estudo focado — prova de comprometimento com essa transição.
+
+| Área | Certificação | Válida até |
+|------|---------------|:-------------:|
+| **AWS** | Solutions Architect – Associate | 2026 |
+| **AWS** | Machine Learning Engineer – Associate | 2028 |
+| **AWS** | AI Practitioner | 2027 |
+| **AWS** | Cloud Practitioner | 2026 |
+| **AWS** | Cloud Economics Essentials Partner | — |
+| **Data** | Databricks Data Engineer – Associate | 2028 |
+| **FinOps** | FinOps Certified Practitioner *(Linux Foundation)* | 2027 |
+| **IA** | Gen AI Technical Certification *(Compass UOL)* | — |
+| **IA** | AI-Assisted Certified Professional *(Compass UOL)* | — |
+| **Ágil** | Agile Certification *(Compass UOL)* | 2026 |
+
+---
+
+## Próximos passos
+
+🛠️ &nbsp; Construindo meu primeiro projeto end-to-end de pipeline de dados — chegando neste repositório em breve  
+📚 &nbsp; Aprofundando em otimização de Spark, Delta Lake e a stack de dados da AWS na prática  
+🤖 &nbsp; Explorando sistemas RAG e padrões de integração com LLMs  
+🎯 &nbsp; Procurando o time certo para começar como Data Engineer Júnior
+
+---
+
+## Vamos conversar
+
+Se você está contratando um(a) Data Engineer Júnior — ou se só quer trocar ideia sobre cloud, dados ou transição de carreira — eu adoraria ouvir você. Tenho um carinho especial por times que valorizam **comunicação clara, mentoria e o lado humano de construir software.**
+
+📬 &nbsp; [**LinkedIn**](https://linkedin.com/in/patricia-moura-santos-b402b9239) &nbsp;·&nbsp; [**Email**](mailto:ptmourasantos@gmail.com)
+
